@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... Software Projects
 - 📫 How to reach me ... call me: 728.202.7142 or email: Shankia.Brooks001@mymdc.net
 - 😄 Pronouns: ... Her/ Hers/ She
-- ⚡ Fun fact: ... The famous science communicator, Carl Sagan, once took to public TV to teach millions about space and science, ultimately shaping modern science outreach as we know it today.
+- ⚡ Fun fact: ... Bionic Limbs: Engineers are creating bionic limbs that can be controlled by the brain! By using brain-machine interfaces and neural signals, amputees can now control prosthetic arms and legs as if they were their own limbs.
 
 <!---
 Shankia001/Shankia001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
